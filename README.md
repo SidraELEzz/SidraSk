@@ -10,6 +10,5 @@ This is done correctly and without errors. It is officially linked to the most f
 
 ## The rest of the details can be found here
 
-[![Telegram](https://t.me/SidraTools/1)
-
+[![Telegram](https://img.shields.io/badge/Telegram-SidraELEzz-orange?style=for-the-badge&logo=Telegram)](https://t.me/SidraTools)
 
