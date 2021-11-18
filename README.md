@@ -1,4 +1,4 @@
-# Sk-Checker
+# SidraSk
 
 
 A program that creates and verifies strip keys (SK) for checking CVV and other cards.   
